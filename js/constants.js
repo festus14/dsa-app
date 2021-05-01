@@ -1,28 +1,8 @@
 module.exports = {
   members: {
-    SET_1: [
-      "Tayo",
-      "David Popoola",
-      "Doyin",
-      "Paul Ofili",
-      "BlackDev",
-      "Samuel",
-      "Caleb",
-      "Empty",
-      "Joe Olabisi",
-    ],
-    SET_2: [
-      "Samad",
-      "Moore",
-      "Dare",
-      "Patrick Ofili",
-      "Timi Tayo",
-      "Yahaya",
-      "Tobi",
-      "Ifere",
-      "David Evbo",
-    ],
+    SET_1: ["Samad", "Paul Ofili", "Victor", "Demilade Oladugba", "Sadiq"],
+    SET_2: ["Patrick Ofili", "Festus Omole", "Demilade", "Chidubem", "Alade"],
   },
-  REFERENCE_DATE_STRING: "January 06, 2020",
+  REFERENCE_DATE_STRING: "May 02, 2021",
   SEED: "oqiefi1293919qnwkasdasd0s",
 };
