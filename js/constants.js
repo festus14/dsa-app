@@ -15,6 +15,6 @@ module.exports = {
       "Yisau Abdussamad",
     ],
   },
-  REFERENCE_DATE_STRING: "July 26, 2021",
+  REFERENCE_DATE_STRING: "July 25, 2021",
   SEED: "oqiefi1293919qnwkasdasd0s",
 };
